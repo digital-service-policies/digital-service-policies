@@ -38,4 +38,4 @@ use the Github issue tracker.
 All contributions licensed under the [CC-BY-SA][1]. By submitting content to
 this project you agree to those terms.
 
-[1](https://creativecommons.org/licenses/by-sa/4.0/)
+[1]:(https://creativecommons.org/licenses/by-sa/4.0/)
