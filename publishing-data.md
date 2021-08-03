@@ -39,3 +39,10 @@ software, support may not be as extensive or may even be buggy.
 Often people desire statistical data to conduct their own analysis via software
 of their own choosing. The harder it is for users to transfer your data into 
 their own systems, the less likely they are to use it.
+
+### Indicate File Types And Sizes In Download Links
+
+Especially for users on mobile devices who may not have the programs needed
+to open the file format. Mobile users may also have restrictions on how much
+data they are allowed to download so specifying file sizes can help prevent 
+accidentally usage, especially for larger files.
